@@ -1,6 +1,6 @@
 # crewai-agents-save-a-haiku
 
-Deploy an agent to write some Haiku to a file
+Deploy an agent to write a Haiku to a file
 
 ## Getting Started
 
